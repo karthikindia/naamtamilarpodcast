@@ -1,32 +1,35 @@
-## Welcome to GitHub Pages
+## Welcome to Naam Tamilar Pod Cast CMS
 
-You can use the [editor on GitHub](https://github.com/karthikindia/naamtamilarpodcast/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# NTK - Naam Tamilar Podcast Generator
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+நாம் தமிழர் கட்சியின் ஒளி மற்றும் ஒலி பெட்டகம்  
 
-### Markdown
+இப்பெட்டகத்தில் அணைத்து கட்சி பாடல்கள், செய்திகள், கூட்டங்களின் ஒளி/ஒலி, கருத்து திரள், பேட்டிகள் போன்ற பதிவுகளை நேரடியாக கேட்க/காண அல்லது தரவிறக்கம் செய்யலாம் 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+NTK Podcasts is an open source Content Management System written in PHP and specifically designed for podcast publishing. It provides the user with the tools to easily manage all of the aspects related to the publication of a podcast, from the upload of episodes to its submission to the iTunes store in tamil.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Visit the **official website** for more information, documentation, demo and to download the latest stable release:
+http://ntkfm.cobrasoftwares.in/portal
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+NTK Naam Tamilar is a fork of PG has been around for more than a decade. The project has been hosted on SourceForge [since 2006] 
 
-[Link](url) and ![Image](src)
-```
+## Download the latest release
+Download the latest stable release on the official website:
+http://www.karthik.sg
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+## Documentation
+A comprehensive documentation is available at: 
+http://www.karthik.sg
+
+## Production
+A fully-functional live of NTK Podcast generator is available at: 
+http://fm.naamtamilar.org/portal
+
+
 
 ### Jekyll Themes
 
@@ -34,4 +37,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For any more info pls contact me@karthik.sg
